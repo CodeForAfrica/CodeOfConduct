@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [tech[at]codeforafrica[dot]org](mailto:tech@codeforafrica.org). All
+reported by contacting the Code for Africa team at [report-abuse[at]codeforafrica[dot]org](mailto:report-abuse@codeforafrica.org). All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
