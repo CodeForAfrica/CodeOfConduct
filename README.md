@@ -1,6 +1,6 @@
 # Code Of Conduct
 
-Light reading to lay out code of conduct across our communities online and offline.
+Code for Africa's Code of Conduct across our communities online and offline.
 
 We try to harmonize our code of conduct but generally, these exist in the following forms currently:
 
